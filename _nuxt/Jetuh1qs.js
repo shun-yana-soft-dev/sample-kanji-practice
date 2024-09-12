@@ -1,0 +1,1 @@
+import{f as a,R as s,o as t,c as o,a as n,t as r,I as c}from"./DHD9c0uz.js";const _=a({__name:"[id]",setup(u){const e=s();return(l,p)=>(t(),o("div",null,[n("h1",null,"users/"+r(c(e).params.id),1)]))}});export{_ as default};

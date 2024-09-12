@@ -1,0 +1,1 @@
+import{u as o}from"./0HtxBcGp.js";import{f as e,o as s,c as t}from"./DHD9c0uz.js";const p=e({__name:"drawing",setup(n){return o({script:[{src:"p5.min.js",tagPosition:"bodyClose"},{src:"sketch.js",tagPosition:"bodyClose"}]}),(r,a)=>(s(),t("div",null," drawing content "))}});export{p as default};
